@@ -1,1 +1,4 @@
 # CS50-Finance
+This is "Finance" from CS50's problemset 9. This project is a full-stack Flask application which allows you to "buy" and "sell" stocks. 
+Requires a user account that utilizes cookies. The user can quote, buy and sell stocks, view the combined balance of his assets as well as the history of transactions. Besides the minimum requirements stated by the problem, I implemented some extra features which include: a menu to add more funds to your balance and the ability to buy and sell owned shares from the main page, without having to type the symbol. 
+Technologies used to make this project include: HTML, CSS, Flask and SQL.
